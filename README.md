@@ -61,6 +61,15 @@ As a user,
 So I know if the user id doesn't exist,
 I want to be routed to a 404 Error page if the user doesn't exist.
 
+## Technologies
+* Rails 5.2
+* PostgreSQL(ActiveRecord)
+* Bcrypt
+* Devise
+* Travis
+* Rubocop
+* SimpleCov
+
 ## How to Install and Run
 ```bash
 > git clone https://github.com/Yasmineral/acebook-short-ferret-midnight.git
