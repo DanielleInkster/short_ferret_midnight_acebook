@@ -1,4 +1,5 @@
-# AceBook
+
+![header](images/header.png "Welcome to Facebook")
 [![Build Status](https://travis-ci.org/Yasmineral/acebook-short-ferret-midnight.svg?branch=master)](https://travis-ci.org/Yasmineral/acebook-short-ferret-midnight)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5a06ec4a1f424bb29a5c10d97feb8f65)](https://www.codacy.com/manual/Yasmineral/acebook-short-ferret-midnight?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Yasmineral/acebook-short-ferret-midnight&amp;utm_campaign=Badge_Grade)
 
@@ -84,3 +85,11 @@ I want to be routed to a 404 Error page if the user doesn't exist.
 > rspec # Run the tests to ensure it works
 > rubocop # Check code quality
 ```
+## Feature Test
+### Create a New User
+![sign-up](images/sign-up.png "Create new User")
+![sign-up](images/sign-up2.png "Create new User")
+
+### Make and Like Posts
+![sign-up](images/wall-posts.png "Create new User")
+
