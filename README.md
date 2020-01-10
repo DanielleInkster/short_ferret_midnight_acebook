@@ -85,3 +85,11 @@ I want to be routed to a 404 Error page if the user doesn't exist.
 > rspec # Run the tests to ensure it works
 > rubocop # Check code quality
 ```
+## Feature Test
+### Create a New User
+![sign-up](images/sign-up.png "Create new User")
+![sign-up](images/sign-up2.png "Create new User")
+
+### Make and Like Posts
+![sign-up](images/wall-posts.png "Create new User")
+
