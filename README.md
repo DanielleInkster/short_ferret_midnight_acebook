@@ -94,5 +94,5 @@ I want to be routed to a 404 Error page if the user doesn't exist.
 ![sign-up](images/wall-posts.png "Make and Like Wall Posts")
 
 ### Error Message
-![sign-up](images/Error.png =24x48 "Error Message")
+![sign-up](images/Error.png "Error Message")
 
