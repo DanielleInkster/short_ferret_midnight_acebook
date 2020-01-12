@@ -87,7 +87,7 @@ I want to be routed to a 404 Error page if the user doesn't exist.
 ```
 ## Feature Test
 ### Create a New User
-![sign-up](images/sign-up.png =50x50 "Create new User" )
+![sign-up](images/sign-up.png =50x "Create new User" )
 ![sign-up](images/sign-up2.png "Create new User")
 
 ### Make and Like Posts
